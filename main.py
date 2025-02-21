@@ -1,1 +1,1 @@
-print("ProGam Library System is live!")
+print("Hello, ProGam!")
