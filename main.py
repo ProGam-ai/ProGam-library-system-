@@ -8,4 +8,4 @@ is_student = True  # Boolean (True or False)
 print("Name:", name)
 print("Age:", age)
 print("Height:", height)
-print("Is Student:", is_student)
+print("Is Student:", is_student
